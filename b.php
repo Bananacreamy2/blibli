@@ -1,14 +1,15 @@
 <?php
 
 date_default_timezone_set('Asia/Jakarta');
-echo color("white","☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞\n");
+
+echo color("white"," ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞\n");
 echo color("red","  [♡]  Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
 echo color("white","   [♡] TOLONG DIBACA DULU SEBELUM MENGGUNAKAN SC \n");
 echo color("red","  [♡] JANGAN LUPA FOLLOW IG GUE YA : @Bananacreamy \n");
 echo color("white","[♡] SCRIPT INI BERGUNA UNTUK BUAT AKUN BLIBLI \n");
 echo color("red"," [♡] NEMU KENDALA? CHAT TELEGRAM @BANANACREAMY \n");
 echo color("white"," [♡] BACA DOA DULU SEBELUM MULAI , OKAY?^.^ \n");
-echo color("red","☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞\n");
+echo color("red"," ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞ ☜☆☞\n");
 	echo "\n";
 echo  PHP_EOL;
 echo "BLIBLI ACCOUNT CREATOR ++(MANUAL VERIV)++". PHP_EOL;
