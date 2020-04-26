@@ -24,7 +24,7 @@ $pass = trim(fgets(STDIN));
 
 buat($email, $pass);
 echo  PHP_EOL;
-echo "lagi?(y/n) : ";
+echo "BIKIN LAGI?(y/n) : ";
 $x = trim(fgets(STDIN));
 }
 
